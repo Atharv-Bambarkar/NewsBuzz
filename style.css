@@ -149,3 +149,8 @@ main{
 .news-source{
   margin-block: 12px;
 }
+
+
+.nav-items.active{
+  color:aqua;
+}
